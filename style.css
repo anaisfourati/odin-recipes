@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 40px;
+    color: #292962;
+}
+
+.content-div {
+    width: 500px;
+}
+
+
